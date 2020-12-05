@@ -11,13 +11,13 @@ import { IMarker } from '../../interfaces';
   styleUrls: ['./single-site.component.scss']
 })
 export class SingleSiteComponent implements OnInit {
+  markers = data.markers as IMarker[];
   site: IMarker;
   constructor(private route: ActivatedRoute) {
 
   }
 
   ngOnInit(): void {
-    this.site = find(data.markers, (site: IMarker) => site.id === Number(this.route.snapshot.paramMap.get('siteId')));
+    this.site = find(this.markers, (site: IMarker) => site.id === Number(this.route.snapshot.paramMap.get('siteId')));
   }
-
 }
