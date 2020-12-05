@@ -17,9 +17,7 @@ export class SingleSiteComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    console.log(this.route.snapshot.paramMap.get('siteId'));
     this.site = find(data.markers, (site: IMarker) => site.id === Number(this.route.snapshot.paramMap.get('siteId')));
-    console.log(data.markers);
   }
 
 }
