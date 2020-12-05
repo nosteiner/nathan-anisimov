@@ -1,0 +1,5 @@
+<div *ngIf="src" class="image-container">
+	<!-- <img [src]="src" alt=""> -->
+	<div [ngStyle]="{'background-image': 'url(' + src + ')'}" class="bg"></div>
+	<div class="overlay">{{label}}</div>
+</div>

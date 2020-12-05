@@ -1,0 +1,928 @@
+{
+  "markers": [
+    {
+      "id": 1,
+      "coordinates": {
+        "lat": 31.786442,
+        "lng": 35.202397
+      },
+      "info": {
+        "category": "מוזיאונים ומוסדות תרבות",
+        "imgs": [
+          {
+            "label": "חוות דעת מאת שלמה בלקינד",
+            "path": "b-hauma/1.jpg",
+            "date": "20/07/89"
+          },
+          {
+            "label": "מדלייה - \"על ידיים עושות בתושיה\"",
+            "path": "b-hauma/2.jpg",
+            "date": ""
+          },
+          {
+            "label": "מכתב הוקרה מאת הגב' עגנה רמות מנכ\"ל בנייני האומה",
+            "path": "b-hauma/3.jpg",
+            "date": "02/04/95"
+          },
+          {
+            "label": "מכתב הוקרה מאת מר גדעון ריבלין",
+            "path": "b-hauma/4.jpg",
+            "date": "06/04/95"
+          },
+          {
+            "label": "לרגל סיום עבודות הבניה - \"נתן תודה\"",
+            "path": "b-hauma/5.jpg",
+            "date": "28/03/95"
+          },
+          {
+            "label": "אולם אורנים",
+            "path": "b-hauma/6.jpg",
+            "date": ""
+          },
+          {
+            "label": "העתקת תנורי צריפה",
+            "path": "b-hauma/7.jpg",
+            "date": ""
+          },
+          {
+            "label": "אולם דולצ'ין",
+            "path": "b-hauma/8.jpg",
+            "date": ""
+          },
+          {
+            "label": "ככר טדי",
+            "path": "b-hauma/9.jpg",
+            "date": ""
+          }
+        ],
+        "mainImg": {
+          "label": "",
+          "path": "b-hauma/main.jpg",
+          "date": ""
+        },
+        "title": "בנייני האומה",
+        "year": 1995,
+        "body": "בלה בלה בלה",
+        "medal": true
+      }
+    },
+    {
+      "id": 2,
+      "coordinates": {
+        "lat": 31.772151,
+        "lng": 35.204094
+      },
+      "info": {
+        "category": "מוזיאונים ומוסדות תרבות",
+        "imgs": [
+          {
+            "label": "ברכות",
+            "path": "m-israel/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "מדליה",
+            "path": "m-israel/2.jpg",
+            "date": ""
+          },
+          {
+            "label": "עם מר טדי קולק",
+            "path": "m-israel/3.jpg",
+            "date": ""
+          }
+        ],
+        "mainImg": {
+          "label": "בניית מוזיאון ישראל",
+          "path": "m-israel/main.jpg",
+          "date": "",
+          "credit": "ארנון למפרום, ארכיון המדינה"
+        },
+        "articles": [
+          {
+            "source": "דבר, יום שלישי, מאי 11, 1965; עמוד 8",
+            "date": "11/05/1965",
+            "title": "18,215 ממ\"ר נבנו ע\"י סולל בונה במוזיאון ישראל",
+            "titlePath": "m-israel/article_1_title.png",
+            "path": "m-israel/article_1.png",
+            "originPath": "http://jpress.org.il/olive/apa/nli_heb/SharedView.Article.aspx?href=DAV%2F1965%2F05%2F11&id=Ar00807&sk=3F10CD13"
+          },
+          {
+            "source": "למרחב, יום רביעי, מאי 12, 1965; עמוד 5",
+            "date": "12/05/1965",
+            "title": "63 אלף ימי עבודה השקיע \"סולל בונה\" במוזיאון ישראל",
+            "titlePath": "m-israel/article_2_title.png",
+            "path": "m-israel/article_2.png",
+            "originPath": "http://jpress.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=LMRV%2F1965%2F05%2F12&id=Ar00519&sk=0B03B862"
+          },
+          {
+            "source": "על המשמר, יום שלישי, מאי 11, 1965; עמוד 3",
+            "date": "12/05/1965",
+            "title": "מוזיאון ישראל",
+            "titlePath": "m-israel/article_3_title.png",
+            "path": "m-israel/article_3.png",
+            "originPath": "http://jpress.org.il/olive/apa/nli_heb/SharedView.Article.aspx?href=AHR%2F1965%2F05%2F11&id=Ar00321&sk=A1480F83"
+          },
+          {
+            "source": "דבר, יום שלישי, מאי 11, 1965; עמוד 2",
+            "date": "12/05/1965",
+            "title": "ברכות רבות למוזיאון ישראל הנפתח היום",
+            "titlePath": "m-israel/article_4_title.png",
+            "path": "m-israel/article_4.png",
+            "originPath": "http://jpress.org.il/olive/apa/nli_heb/SharedView.Article.aspx?href=DAV%2F1965%2F05%2F11&id=Ar00204&sk=A8D9446B"
+          }
+        ],
+        "links": [
+          {
+            "text": "סרטון מטקס הפתיחה של מוזיאון ישראל 1965",
+            "url": "https://www.youtube.com/watch?v=niTtrGNoHl8"
+          },
+          {
+            "text": "אוסף תצלומים מבניית מוזיאון ישראל באתר ארכיון שיכון ובינוי",
+            "url": "https://historical-archive.shikunbinui.com/search/results?fromYear=1920&searchTerm=%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C&toYear=2020&type=2&typeName=%D7%AA%D7%A6%D7%9C%D7%95%D7%9E%D7%99%D7%9D"
+          }
+        ],
+        "title": "מוזיאון ישראל",
+        "year": 1965,
+        "body": "בלה בלה בלה",
+        "medal": true
+      }
+    },
+    {
+      "id": 3,
+      "coordinates": {
+        "lat": 31.798114,
+        "lng": 35.227828
+      },
+      "info": {
+        "category": "אתרי הנצחה",
+        "imgs": [
+          {
+            "label": "ברכת שנה טובה מקצ'ה - שמעון כהנר מנכ\"ל גבעת התחמושת",
+            "path": "g-hatahmoshet/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "הקדשה מקצ'ה - שמעון כהנר מנכ\"ל גבעת התחמושת",
+            "path": "g-hatahmoshet/2.png",
+            "date": "09/08/96"
+          },
+          {
+            "label": "תעודת הערכה על תרומה לפיתוח את ההנצחה המוזיאון מאת קצ'ה - שמעון כהנר מנכ\"ל גבעת התחמושת",
+            "path": "g-hatahmoshet/3.jpg",
+            "date": "18/08/96"
+          },
+          {
+            "label": "הזמנה לעצרת הממלכתית ביום ירושלים",
+            "path": "g-hatahmoshet/4.jpg",
+            "date": "01/05/97"
+          }
+        ],
+        "mainImg": {
+          "label": "",
+          "path": "g-hatahmoshet/main.jpg",
+          "credit": "",
+          "date": ""
+        },
+        "title": "גבעת התחמושת",
+        "year": 1997,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 4,
+      "coordinates": {
+        "lat": 31.774271,
+        "lng": 35.200704
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "g-ram/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "g-ram/2.jpg",
+            "date": ""
+          }
+        ],
+        "title": "גבעת רם",
+        "year": 1960,
+        "body": "בלה בלה בלה",
+        "links": [
+          {
+            "text": "סיבוב במרכז הספורט ובאמפיתיאטרון האוניברסיטאי בגבעת רם",
+            "url": "https://michaelarch.wordpress.com/2016/10/08/%D7%A1%D7%99%D7%91%D7%95%D7%91-%D7%91%D7%9E%D7%A8%D7%9B%D7%96-%D7%94%D7%A1%D7%A4%D7%95%D7%A8%D7%98-%D7%95%D7%91%D7%90%D7%9E%D7%A4%D7%99%D7%AA%D7%99%D7%90%D7%98%D7%A8%D7%95%D7%9F-%D7%94%D7%90%D7%95/"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "coordinates": {
+        "lat": 31.79306,
+        "lng": 35.244934
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "h-hatzofim/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "h-hatzofim/2.jpg",
+            "date": ""
+          }
+        ],
+        "title": "הר הצופים",
+        "year": 1967,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 6,
+      "coordinates": {
+        "lat": 31.780393,
+        "lng": 35.197122
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "liada/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "liada/2.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "liada/3.jpg",
+            "date": ""
+          }
+        ],
+        "articles": [
+          {
+            "source": "הבקר, יום שני, יולי 04, 1960; עמוד 4",
+            "date": "04/07/1960",
+            "title": "אבן פינה לבית ספר תיכון ליד האוניברסיטה",
+            "titlePath": "liada/article_2_title.png",
+            "path": "liada/article_2.png",
+            "originPath": "http://jpress.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=HBKR%2F1960%2F07%2F04&id=Ar00411&sk=1C748D6B"
+          },
+          {
+            "source": "מעריב, יום רביעי, דצמבר 26, 1962; עמוד 12",
+            "date": "26/12/1962",
+            "title": "בית־ספר תיכון לדוגמא ייחנך ליד האוניברסיטה",
+            "titlePath": "liada/article_1_title.png",
+            "path": "liada/article_1.png",
+            "originPath": "http://jpress.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=MAR%2F1962%2F12%2F26&id=Ar01200&sk=7BF9DFCF"
+          }
+        ],
+        "links": [
+          {
+            "text": "חלון אחורי - סיבוב בבית הספר התיכון ליד האוניברסיטה העברית (ליד\"ה)",
+            "src": "https://michaelarch.wordpress.com/2017/07/26/%D7%A1%D7%99%D7%91%D7%95%D7%91-%D7%91%D7%91%D7%99%D7%AA-%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%AA%D7%99%D7%9B%D7%95%D7%9F-%D7%9C%D7%99%D7%93-%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98/"
+          },
+          {
+            "text": "בניית ביה\"ס ליד\"ה באתר ארכיון שיכון ובינוי",
+            "src": "https://historical-archive.shikunbinui.com/search/results?fromYear=1920&searchTerm=%D7%9C%D7%99%D7%93+%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94&toYear=2020&type=2&typeName=%D7%AA%D7%A6%D7%9C%D7%95%D7%9E%D7%99%D7%9D"
+          }
+        ],
+        "title": "ליד האוניברסיטה - ליד\"ה",
+        "year": 1963,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 7,
+      "coordinates": {
+        "lat": 31.766201,
+        "lng": 35.18039
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "boiar/1.png",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "boiar/2.png",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "boiar/3.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "boiar/4.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "boiar/5.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "boiar/6.jpg",
+            "date": ""
+          }
+        ],
+        "articles": [
+          {
+            "source": "דבר, יום שישי, יוני 25, 1965; עמוד 13",
+            "date": "25/06/1965",
+            "title": "נחנך ביה\"ם התיכון והפנימיה ע\"ש בויאר",
+            "titlePath": "boiar/article_1_title.png",
+            "path": "boiar/article_1.png",
+            "originPath": "http://jpress.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=DAV%2F1965%2F06%2F25&id=Ar01304&sk=4F3E9907"
+          },
+          {
+            "source": "מעריב",
+            "date": "24/06/1965",
+            "title": "בי\"ם תיכון ופנימיה ע\"ש בויאר ־ נחנכו בירושלים",
+            "path": "http://jpress.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=MAR%2F1965%2F06%2F24&id=Ar01804&sk=7EF53358"
+          }
+        ],
+        "title": "בויאר",
+        "year": 1965,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 8,
+      "coordinates": {
+        "lat": 31.779014,
+        "lng": 35.224983
+      },
+      "info": {
+        "category": "בתי מלון",
+        "imgs": [
+          {
+            "label": "",
+            "path": "pninat-dan/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "pninat-dan/2.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "pninat-dan/3.jpeg",
+            "date": ""
+          },
+          {
+            "label": "אתר מפה",
+            "path": "pninat-dan/4.jpeg",
+            "date": ""
+          }
+        ],
+        "title": "פנינת דן",
+        "year": 1996,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 9,
+      "coordinates": {
+        "lat": 31.778186,
+        "lng": 35.215659
+      },
+      "info": {
+        "category": "בתי מלון",
+        "imgs": [
+          {
+            "label": "",
+            "path": "bat-sheva/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "bat-sheva/2.jpg",
+            "date": ""
+          }
+        ],
+        "title": "מלון טירת בת שבע",
+        "year": 1969,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 10,
+      "coordinates": {
+        "lat": 31.748364,
+        "lng": 35.21151
+      },
+      "info": {
+        "category": "מבני תעשייה",
+        "imgs": [],
+        "title": "תלפיות תעשייה",
+        "year": "1968-1981",
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 11,
+      "coordinates": {
+        "lat": 31.790544,
+        "lng": 35.194715
+      },
+      "info": {
+        "category": "מבני תעשייה",
+        "s3Folder": "גבעת שאול תעשייה",
+        "title": "גבעת שאול תעשייה",
+        "year": "1968-1981",
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 12,
+      "coordinates": {
+        "lat": 31.854971,
+        "lng": 35.216704
+      },
+      "info": {
+        "category": "מבני תעשייה",
+        "imgs": [],
+        "title": "עטרות",
+        "year": "1968-1981",
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 13,
+      "coordinates": {
+        "lat": 31.777548,
+        "lng": 35.18944
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "imgs": [],
+        "title": "בית הכרם מגורים",
+        "year": "1968-1981",
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 14,
+      "coordinates": {
+        "lat": 31.774194,
+        "lng": 35.175302
+      },
+      "info": {
+        "category": "מוזיאונים ומוסדות תרבות",
+        "imgs": [
+          {
+            "label": "",
+            "path": "yad-vashem/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "yad-vashem/2.jpg",
+            "date": ""
+          }
+        ],
+        "title": "יד ושם",
+        "subTitle": "מוזיאון הילד \"יד ושם\", מוזיאון לאמנות השואה והגבורה ואודיטוריום",
+        "year": 1982,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 15,
+      "coordinates": {
+        "lat": 31.803735,
+        "lng": 35.150397
+      },
+      "info": {
+        "category": "אתרי הנצחה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "harel/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "harel/3.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "harel/4.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "harel/5.jpg",
+            "date": ""
+          }
+        ],
+        "title": "אנדרטת \"הראל\" וסמל הפלמ\"ח",
+        "year": 1976,
+        "body": "בלה בלה בלה",
+        "donation": true,
+        "links": [
+          {
+            "text": "מנהרות הראל על שום מה? לרגל פתיחת מנהרות הראל",
+            "url": "http://yossispanier.blogspot.com/2019/01/blog-post_17.html"
+          }
+        ],
+        "mainImg": {
+          "label": "",
+          "path": "harel/4.jpg",
+          "date": "",
+          "credit": ""
+        }
+      }
+    },
+    {
+      "id": 16,
+      "coordinates": {
+        "lat": 31.794043,
+        "lng": 35.233471
+      },
+      "info": {
+        "category": "אתרי הנצחה",
+        "imgs": [],
+        "title": "אנדרטת הע\"ח בשיח ג'ראח",
+        "year": 1967,
+        "body": "בלה בלה בלה",
+        "donation": true,
+        "mainImg": {
+          "label": "",
+          "path": "andarta-hadasa/main.jpg",
+          "date": "",
+          "credit": "רפי כפיר - אתר אהבת ירושלים"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "coordinates": {
+        "lat": 31.754852,
+        "lng": 35.217646
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "imgs": [],
+        "title": "תלפיות מגורים",
+        "year": "1968-1981",
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 18,
+      "coordinates": {
+        "lat": 31.775155,
+        "lng": 35.22927
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "imgs": [],
+        "title": "בית הספר התיאולוגי הארמני",
+        "year": 1972,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 20,
+      "coordinates": {
+        "lat": 31.764546,
+        "lng": 35.227022
+      },
+      "info": {
+        "category": "מרכזים קהילתיים",
+        "imgs": [
+          {
+            "label": "",
+            "path": "b-nehemia/1.jpg",
+            "date": ""
+          }
+        ],
+        "mainImg": {
+          "label": "",
+          "path": "b-nehemia/main.jpg",
+          "date": "",
+          "credit": "אתר מסלולים"
+        },
+        "title": "בית נחמיה",
+        "year": 1969,
+        "body": "",
+        "donation": true
+      }
+    },
+    {
+      "id": 21,
+      "coordinates": {
+        "lat": 31.748455,
+        "lng": 35.217675
+      },
+      "info": {
+        "category": "מרכזים קהילתיים",
+        "imgs": [
+          {
+            "label": "",
+            "path": "b-lazaros/1.jpg",
+            "date": ""
+          }
+        ],
+        "title": "בית לזרוס",
+        "year": 1967,
+        "body": "בלה בלה בלה",
+        "mainImg": {
+          "label": "",
+          "path": "b-lazaros/main.jpg",
+          "date": "",
+          "credit": "אמיל סלמן"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "coordinates": {
+        "lat": 31.762167,
+        "lng": 35.213429
+      },
+      "info": {
+        "category": "מרכזים קהילתיים",
+        "imgs": [
+          {
+            "label": "",
+            "path": "b-elisheva/1.jpg",
+            "date": "",
+            "credit": ""
+          },
+          {
+            "label": "חזית הכניסה הראשית לבניין",
+            "path": "b-elisheva/2.jpg",
+            "date": "1960",
+            "credit": "צילום: אלפרד ברנהיים, באדיבות שולמית נדלר, מהבלוג \"חלון אחורי\""
+          },
+          {
+            "label": "אירוע חנוכת בית אלישבע בשורה הראשונה משמאל: פולה ודוד בן גוריון",
+            "path": "b-elisheva/3.jpg",
+            "date": "1960",
+            "credit": "צילום: אלפרד ברנהיים, באדיבות שולמית נדלר, מהבלוג \"חלון אחורי\""
+          }
+        ],
+        "links": [
+          {
+            "text": "חלון אחורי - מוזמנים לסיבוב בירושליםד",
+            "src": "https://michaelarch.wordpress.com/2013/10/28/%d7%9e%d7%95%d7%96%d7%9e%d7%a0%d7%99%d7%9d-%d7%9c%d7%a1%d7%99%d7%91%d7%95%d7%91-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/"
+          }
+        ],
+        "title": "בית אלישבע",
+        "year": 1962,
+        "body": "בלה בלה בלה"
+      }
+    },
+    {
+      "id": 23,
+      "coordinates": {
+        "lat": 31.761,
+        "lng": 35.207
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "title": "קטמונים מגורים",
+        "year": "1968-1981",
+        "body": "בלה בלה בלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "katamonim-megurim/1.jpg",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "coordinates": {
+        "lat": 31.811922,
+        "lng": 35.21672
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "title": "רמת שלמה מגורים",
+        "year": 1995,
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 25,
+      "coordinates": {
+        "lat": 31.79167,
+        "lng": 35.212421
+      },
+      "info": {
+        "category": "בתי מלון",
+        "title": "בית טובי העיר",
+        "year": 1997,
+        "body": "בלה בלה בלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "b-tovei-hair/1.jpg",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "coordinates": {
+        "lat": 31.768303,
+        "lng": 35.202846
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "title": "ניות מגורים",
+        "year": 1986,
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 27,
+      "coordinates": {
+        "lat": 31.799117,
+        "lng": 35.226196
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "title": "רנה קסין",
+        "year": 1974,
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 28,
+      "coordinates": {
+        "lat": 31.755979,
+        "lng": 35.218844
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "title": "גאולים",
+        "year": "",
+        "body": "בלה בלה בלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "geulim/1.jpg",
+            "date": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "coordinates": {
+        "lat": 31.77803,
+        "lng": 35.153614
+      },
+      "info": {
+        "category": "מוסדות חינוך והשכלה",
+        "title": "יסודי עין כרם",
+        "year": 1965,
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 30,
+      "coordinates": {
+        "lat": 31.759335,
+        "lng": 35.220787
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "title": "בקעה מגורים",
+        "year": 1962,
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 31,
+      "coordinates": {
+        "lat": 31.766007,
+        "lng": 35.20704
+      },
+      "info": {
+        "category": "מבני מגורים",
+        "title": "הטייסים מגורים",
+        "year": "",
+        "body": "בלה בלה בלה",
+        "imgs": []
+      }
+    },
+    {
+      "id": 32,
+      "coordinates": {
+        "lat": 31.7944528,
+        "lng": 35.0678036
+      },
+      "info": {
+        "category": "בתי מלון",
+        "title": "פסגת שורש",
+        "year": 1998,
+        "body": "בלה בלה בלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "shoresh/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "shoresh/2.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "shoresh/3.jpg",
+            "date": ""
+          }
+        ],
+        "mainImg": {
+          "label": "",
+          "path": "shoresh/3.jpg",
+          "date": ""
+        }
+      }
+    },
+    {
+      "id": 33,
+      "coordinates": {
+        "lat": 32.085904,
+        "lng": 34.7721387
+      },
+      "info": {
+        "category": "אחרים",
+        "title": "ככר אתרים \"מרכז התיירות תל אביב\"",
+        "year": 1975,
+        "body": "בלה בלה בלה",
+        "imgs": [
+          {
+            "label": "",
+            "path": "atarim/1.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "atarim/2.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "atarim/3.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "atarim/4.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "atarim/5.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "atarim/6.jpg",
+            "date": ""
+          },
+          {
+            "label": "",
+            "path": "atarim/7.jpg",
+            "date": ""
+          }
+        ]
+      }
+    }
+  ]
+}

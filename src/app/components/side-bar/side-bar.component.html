@@ -1,0 +1,17 @@
+<div class="side-bar">
+	<div class="category-container" *ngFor="let marker of data | keyvalue">
+		<div class="category-title">
+			<span>
+
+				{{marker.key}}
+			</span>
+		</div>
+		<div class="imgs-layout">
+			<div class="item" *ngFor="let site of marker.value">
+				<app-image *ngIf="site.imgs.length > 0 || site.mainImg"
+					[src]="'https://anisimov-angular.s3.eu-west-1.amazonaws.com/'+( site.mainImg?.path || site.imgs[0]?.path)"
+					[label]="site.title"></app-image>
+			</div>
+		</div>
+	</div>
+</div>
