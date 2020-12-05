@@ -10,11 +10,11 @@ import { IInfo } from '../../interfaces';
   styleUrls: ['./side-bar.component.scss']
 })
 export class SideBarComponent implements OnInit {
-  data = groupBy(data.markers.map(marker => marker.info), (info: IInfo) => info.category);
+  data = groupBy(data.markers.map(marker => ({ id: marker.id, ...marker.info })), (info: IInfo) => info.category);
   constructor() { }
 
   ngOnInit(): void {
-    console.log(this.data);
+    // console.log(this.data);
   }
 
 }

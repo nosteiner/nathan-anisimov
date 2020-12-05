@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { ImageComponent } from './components/image/image.component';
 import { SideBarComponent } from './components/side-bar/side-bar.component';
+import { SingleSiteComponent } from './components/single-site/single-site.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +14,7 @@ import { SideBarComponent } from './components/side-bar/side-bar.component';
     HeaderComponent,
     SideBarComponent,
     ImageComponent,
+    SingleSiteComponent,
   ],
   imports: [
     BrowserModule,
