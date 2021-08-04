@@ -1,14 +1,22 @@
 <div class="container">
-<div class="body">
-  <h1 class="title-2">
-    {{site?.info.title}}
-  </h1>
+  <div class="body">
+    <h1 class="title-2">
+      {{site?.info.title}}
+    </h1>
 
-  <p >
-    {{site?.info.body}}
-  </p>
+    <p>{{site?.info.body}}</p>
 
+
+  </div>
+  <div class="images">
+    <swiper dir="rtl" [slidesPerView]="1" [spaceBetween]="30" [keyboard]="{
+        enabled: true
+      }" [pagination]="{
+        clickable: true
+      }" [navigation]="true" class="mySwiper">
+      <ng-template swiperSlide *ngFor="let img of site?.info.imgs">
+        <div class="image" [ngStyle]="{'background-image': 'url('+S3_API + img.path+')'}"></div>
+      </ng-template>
+    </swiper>
+  </div>
 </div>
-</div>
-
-

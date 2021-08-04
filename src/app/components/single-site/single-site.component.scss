@@ -5,10 +5,90 @@
         height: 100%;
         width: 100%;
 
-        // background-color: rgb(255, 60, 0);
         .body {
             padding: 0 14px;
-            // background-color: rgb(14, 26, 36);
         }
+        .images {
+            height: 500px;
+
+            .image {
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position: center;
+                height: 100%;
+
+            }
+        }
+    }
+}
+
+
+
+@import "~swiper/swiper";
+@import "~swiper/components/navigation/navigation";
+@import "~swiper/components/pagination/pagination";
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+::ng-deep {
+
+    .swiper-slide {
+        padding: 16px;
+    }
+
+    .swiper-button-next:after,
+    .swiper-container-rtl .swiper-button-prev:after {
+        color: #000;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        background: blanchedalmond;
+        height: 74px;
+        width: 36px;
+
+    }
+
+    .swiper-pagination-bullet-active {
+        background-color: #d3947b;
+    }
+
+    .swiper-button-next {
+        right: 0;
+    }
+
+    .swiper-button-prev {
+        left: 0;
     }
 }

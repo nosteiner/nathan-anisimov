@@ -7,6 +7,7 @@ import { ImageComponent } from './components/image/image.component';
 import { NgModule } from '@angular/core';
 import { SideBarComponent } from './components/side-bar/side-bar.component';
 import { SingleSiteComponent } from './components/single-site/single-site.component';
+import { SwiperModule } from "swiper/angular";
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { SingleSiteComponent } from './components/single-site/single-site.compon
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    SwiperModule
   ],
   providers: [DataService],
   bootstrap: [AppComponent]
