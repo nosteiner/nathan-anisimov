@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
-import { find } from 'lodash';
 
-import data from '../../../assets/map.data.json';
+import { ActivatedRoute } from '@angular/router';
+import { DataService } from 'src/app/data.service';
 import { IMarker } from '../../interfaces';
+import data from '../../../assets/map.data.json';
+import { find } from 'lodash';
 
 @Component({
   selector: 'app-single-site',
@@ -11,10 +12,10 @@ import { IMarker } from '../../interfaces';
   styleUrls: ['./single-site.component.scss']
 })
 export class SingleSiteComponent implements OnInit {
-  markers = data.markers as IMarker[];
+  markers: IMarker[]
   site: IMarker;
-  constructor(private route: ActivatedRoute) {
-
+  constructor(private route: ActivatedRoute, private dataService: DataService) {
+    this.markers = dataService.data.markers
   }
 
   ngOnInit(): void {

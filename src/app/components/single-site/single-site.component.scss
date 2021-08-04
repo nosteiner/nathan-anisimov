@@ -1,0 +1,14 @@
+:host {
+    flex: 1;
+
+    .container {
+        height: 100%;
+        width: 100%;
+
+        // background-color: rgb(255, 60, 0);
+        .body {
+            padding: 0 14px;
+            // background-color: rgb(14, 26, 36);
+        }
+    }
+}

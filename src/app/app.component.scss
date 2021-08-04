@@ -1,6 +1,8 @@
 .main {
 	height: calc(100% - 70px);
 	overflow: auto;
+	display: flex;
+	flex-direction: column;
 }
 .app-container {
 	height: 100%;

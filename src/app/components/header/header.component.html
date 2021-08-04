@@ -1,3 +1,5 @@
-<div class="header">
-
+<div class="header" [class.large]="!!img" [ngStyle]="{'background-image': 'url('+S3_API + img+')', 'opacity': '0.8', 'transform': 'matrix3d(1, -0.000174312, 0, 0, 0.000174312, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1)'}">
+	<!-- <a href="javascript:void(0)" (click)="onBack()">Back</a>
+{{title}} -->
+<!-- <img *ngIf="img" [src]="S3_API + img" alt=""> -->
 </div>

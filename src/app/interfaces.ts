@@ -24,7 +24,7 @@ export interface IInfo {
 	articles?: IArticle[];
 	mainImg?: IImg;
 	title: string;
-	year: number;
+	year: number | string;
 	body: string;
 	category: string;
 	links?: ILink[];
